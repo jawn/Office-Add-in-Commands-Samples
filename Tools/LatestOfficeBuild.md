@@ -4,7 +4,7 @@ New developer features, including those still in preview, are delivered first to
 
 
 
-Office 365 Home, Personal and University Subscribers:[Insiders Program](https://products.office.com/en-us/office-insider)
+Office 365 Home, Personal and University Subscribers: [Insiders Program](https://products.office.com/en-us/office-insider)
 
 Office 365 Commercial customers: [First Release Build](https://support.office.com/en-us/article/Install-the-First-Release-build-for-Office-365-for-business-customers-4dd8ba40-73c0-4468-b778-c7b744d03ead?ui=en-US&rs=en-US&ad=US)
 
